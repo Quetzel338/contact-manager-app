@@ -9,8 +9,12 @@ Contact app to manage all your contacts you can add , search and delete contacts
 ![Screenshot (352)](https://github.com/Quetzel338/contact-manager-app/assets/117530747/5f66a5a0-75a7-4fae-b33d-a9d557fd7c18)
 
 ## Components used 
-### Contact Card - it defines the layout of the contact , Whenever a contact is added a div element is created with the mapped name and number
-### Popup - Use of Popup , when clicked on add Contact button a popup with add button is opened 
-### Delete - Delete button is there with every contact to delete it
-### firebase - realtime database is used to store all the contacts added in the app 
+### Contact Card 
+it defines the layout of the contact , Whenever a contact is added a div element is created with the mapped name and number
+### Popup 
+ Use of Popup , when clicked on add Contact button a popup with add button is opened 
+### Delete 
+Delete button is there with every contact to delete it
+### firebase 
+realtime database is used to store all the contacts added in the app 
 ### font awesome is used for the icons 
